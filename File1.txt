@@ -12,3 +12,4 @@ Change 4:- to fix bug2
 Change 5:- to test push normal to remote repository
 
 Change 6:- Teammate change for CR1 on remote master to test rebase
+Change 7: team mate change for CR2 on remote master
